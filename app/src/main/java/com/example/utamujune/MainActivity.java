@@ -14,5 +14,10 @@ public class MainActivity extends AppCompatActivity {
         Student student =  new Student();
         int gotAge  = student.age;
 
+        /* instantiate dog class*/
+        Dog dogobj = new Dog();
+        int output = dogobj.calculateSize();
+        System.out.println("Calculate method output is: " + output);
     }
+
 }

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">utamuJune</string>
+    <string name="welcome_remarks">welcome remarks</string>
+    <string name="guide_statement">guide statement</string>
+
+    welcome_remarks
 </resources>
